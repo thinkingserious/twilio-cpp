@@ -1,4 +1,4 @@
-# Sending a SMS Message with C++ and Twilio on macOS
+# Sending an SMS Message with C++ and Twilio on macOS
 
 ```zsh
 g++ -o send_sms send_sms.cpp -lcurl
